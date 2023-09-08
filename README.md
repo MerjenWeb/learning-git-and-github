@@ -1,3 +1,5 @@
-# One hashtag for the main header
+# DEMO
 
-Some description.
+One hashtag is used for the main header.
+
+And here is some other description.
